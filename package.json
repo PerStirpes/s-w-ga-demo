@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "now-start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^9.1.0"
+  }
+}
